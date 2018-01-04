@@ -1,5 +1,3 @@
-Initially, I hadn't added the readme.txt as I had kept the project for my self but as I have shared in my answer https://www.quora.com/What-is-the-coolest-thing-you-have-ever-created-alone-as-a-programmer/answer/Nikhil-Wayal?srid=FDgp and all of sudden there was a number of queries from people hence I have decided to add the instructions to guide the Quora community in creating the project.
-
 Step 1:- Solder the ir as per the image uploaded and make the connection for the ir sensor to Arduino uno analog pin.
 
 Step 2:- By using the Arduino IDE, Connect the Arduino uno model to comport of pc using the Arduino uno connector and upload the code(burn) to Arduino
